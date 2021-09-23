@@ -3,7 +3,7 @@ import Modal from './components/Modal/Modal';
 import Container from './components/Container';
 import Searchbar from './components/Searchbar/Searchbar';
 import ImageGallery from './components/ImageGallery/ImageGallery';
-import api from './components/Pixabay-api';
+import api from './service/Pixabay-api';
 import Button from './components/Button/Button';
 import LoaderSpiner from './components/Loader/Loader';
 import './index.css';
